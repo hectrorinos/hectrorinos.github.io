@@ -1,0 +1,25 @@
+{
+    "name": "pokemon-masters-hack/pokemon-masters-gems-android-and-ios",
+    "description": "[NEW] Pokemon Masters Hack ((IOS & ANDROID)) Tutorial Get Pokemon Masters Hack + Free Gems.. Pokemon Masters Hack For iOS/Android.",
+    "homepage": "https://github.com/fcjc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GET Pokemon Masters Hack Now",
+            "homepage": "http://hackeado.net/pokemon-masters-hack/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+
+}
